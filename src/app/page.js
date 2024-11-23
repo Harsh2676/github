@@ -14,7 +14,7 @@ export default function Home() {
         /> */}
         <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold tracking-tight">COMING SOON</h1>
         <p className="text-base sm:text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg">
-          We're working hard to bring you something amazing. Stay tuned!
+          We&apos;re working hard to bring you something amazing. Stay tuned for our upcoming code editor!
         </p>
         <div className="mt-2 sm:mt-4 flex gap-3 sm:gap-4">
           <a
